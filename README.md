@@ -1,4 +1,4 @@
-# brickBreaker
+# BrickBreaker
 This is a repository for Brickbreaker, a game made as my first individual project. The game was developed over 5 weeks as a final project for my first CS class: *CSC 103: Creative Computing.*
 
 ## Description
