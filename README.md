@@ -1,5 +1,5 @@
 # BrickBreaker
-This is a repository for Brickbreaker - my first individual project. The game was developed over 5 weeks as a final project for my first CS class: *CSC 103: Creative Computing.*
+This is a repository for Brickbreaker - my first individual project. The game was developed over 5 weeks as a final project for my first CS class: *CSC 103: Creative Computing.* Check it out on Behance [here!]([url](https://www.behance.net/gallery/158448577/BrickBreaker))
 
 ## Description
 Explore the nostalgic thrill of classic arcade gaming with BrickBreaker, a modern remake inspired by the timeless Brick Breaker game. Immerse yourself in the world of bouncing balls and breaking bricks as you navigate through multiple levels of excitement.
