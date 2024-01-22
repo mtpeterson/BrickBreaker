@@ -5,7 +5,7 @@ This is a repository for Brickbreaker, a game made as my first individual projec
 Explore the nostalgic thrill of classic arcade gaming with BrickBreaker, a modern remake inspired by the timeless Brick Breaker game. Immerse yourself in the world of bouncing balls and breaking bricks as you navigate through multiple levels of excitement.
 
 ### Skills Used:
-* Language: Processing(Java)
+* Written in Processing(Java)
 * Object-Oriented Design, finite-state machines, custom animations, and music
 
 ### Key Features:
